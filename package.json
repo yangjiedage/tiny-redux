@@ -1,0 +1,12 @@
+{
+  "name": "tiny-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yangjiedage/tiny-redux.git",
+  "author": "zedyang <zedyang@tencent.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "redux": "^4.0.5"
+  }
+}
